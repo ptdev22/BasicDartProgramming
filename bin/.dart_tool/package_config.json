@@ -1,0 +1,19 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Pluem/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/meta-1.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "1.12"
+    },
+    {
+      "name": "basicdartprogramming",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2021-01-13T15:46:10.660535Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.3"
+}
